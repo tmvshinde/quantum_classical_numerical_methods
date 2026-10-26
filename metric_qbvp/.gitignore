@@ -1,0 +1,6 @@
+# generated when the scripts / notebook run
+circuits/
+results/
+__pycache__/
+*.qpy
+.ipynb_checkpoints/
